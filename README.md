@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Webrails
+begin to Rails
+>>>>>>> bf4a12415cfb1d450eb85999a4f0026ca73cc30b
